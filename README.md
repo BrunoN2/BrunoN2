@@ -16,7 +16,7 @@
 - 🏗️ Explorando **arquitetura de sistemas** e **segurança da informação**
 - 🌱 Sempre aprendendo algo novo
 - 📍 Brasil 🇧🇷
-- 📫 Contato: **brunonunesdasilvalopes@gmail.com**
+- 📫 Contato: **brunonunesdasilvalopes@gmail.com** 
 
 ---
 
@@ -29,25 +29,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoN2&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoN2&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
-
-<img src="https://streak-stats.demolab.com?user=BrunoN2&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🚀 Projetos em destaque
 
