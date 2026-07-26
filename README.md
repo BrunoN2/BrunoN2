@@ -54,7 +54,7 @@
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
 | 🍔 [food](https://github.com/BrunoN2/food) | Landing page de fast-food com estética neon (Vice City), animações e pedidos via WhatsApp | HTML • CSS • JS |
-| ⚡ [monster-energy-site](https://github.com/BrunoN2/monster-energy-site) | Site conceito da Monster Energy | HTML • CSS |
+| ⚡ [sucos-naturais](https://brunon2.github.io/sucos-naturais/suco-naturais/) | Site conceito da Monster Energy | HTML • CSS |
 | ♻️ [Site-da-Coleta-Eletronica](https://github.com/BrunoN2/Site-da-Coleta-Eletronica-) | Site sobre coleta de lixo eletrônico | HTML |
 
 ---
