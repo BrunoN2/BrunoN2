@@ -1,14 +1,3 @@
-<div align="center">
-
-<!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bruno%20Nunes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Arquitetura%20de%20Sistemas%20%7C%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o&descSize=16&descAlignY=55" width="100%"/>
-
-<!-- Texto digitando -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+entusiasta+%F0%9F%9A%80;Explorando+arquitetura+de+sistemas+%F0%9F%8F%97%EF%B8%8F;Apaixonado+por+seguran%C3%A7a+da+informa%C3%A7%C3%A3o+%F0%9F%94%90" alt="Typing SVG"/>
-
-</div>
-
----
 
 ## 👨‍💻 Sobre mim
 
