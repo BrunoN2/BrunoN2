@@ -29,6 +29,7 @@
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
+| 💅🏼 [App](https://github.com/BrunoN2/nuvask)| Aplicativo de produtividade minimalista com foco imersivo, tarefas, calendário e PWA. 
 | 🍔 [food](https://github.com/BrunoN2/food) | Landing page de fast-food com estética neon (Vice City), animações e pedidos via WhatsApp | HTML • CSS • JS |
 | ♻️ [Site-da-Coleta-Eletronica](https://github.com/BrunoN2/Site-da-Coleta-Eletronica-) | Site sobre coleta de lixo eletrônico | HTML |
 
